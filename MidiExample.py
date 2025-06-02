@@ -1,4 +1,4 @@
-# Script: generate_c_major_scale.py
+# Script: MidiExample.py
 # Author: Grok (created on 06/01/2025)
 # Description: Generates a C major scale (C4 to C5) in MIDI format and plays it directly using the system's synthesizer.
 # Dependencies: mido (for MIDI file creation), python-rtmidi (for MIDI playback)
